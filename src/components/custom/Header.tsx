@@ -1,6 +1,7 @@
 import { Button } from "../ui/button";
 import Navbar from "./Navbar";
-import Logo from "../../../public/Food_Assets/assets/logo/logo.png";
+
+import Logo from "/Food_Assets/assets/logo/logo.png";
 import { Link } from "react-router-dom";
 import { ShoppingCart } from "lucide-react";
 import { useEffect, useState } from "react";
