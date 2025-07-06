@@ -8,7 +8,10 @@ import AddBlog from "./pages/AddBlog";
 import BlogPost from "./pages/blogs/BlogPost";
 import Blog from "./pages/blogs/Blog";
 import Aboutus from "./pages/Aboutus";
+<<<<<<< HEAD
 import Menu from "./pages/Menu";
+=======
+>>>>>>> cb93a44242bcd2d65d04f1289f4874beff1b170c
 
 function App() {
   return (
@@ -23,7 +26,10 @@ function App() {
           <Route path="/blog/:id" element={<BlogPost />} />
           <Route path="/admin/add-blog" element={<AddBlog />} />
           <Route path="/about" element={<Aboutus />} />
+<<<<<<< HEAD
           <Route path="/menu" element={<Menu />} />
+=======
+>>>>>>> cb93a44242bcd2d65d04f1289f4874beff1b170c
         </Route>
       </Routes>
     </>
