@@ -20,7 +20,7 @@ const Contact = () => {
           Aliquam a augue suscipit, luctus neque purus ipsum neque undo dolor
           primis libero tempus, blandit a cursus varius luctus neque magna.
         </p>
-        <Link to={"/contactus"}>
+        <Link to={"/contact"}>
           <Button
             variant="outline"
             size={"lg"}

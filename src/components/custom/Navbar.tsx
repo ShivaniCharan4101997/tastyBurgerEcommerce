@@ -5,7 +5,6 @@ import {
   NavigationMenuLink,
   NavigationMenuList,
 } from "@/components/ui/navigation-menu";
-
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { Menu } from "lucide-react";
 import { Link } from "react-router-dom";
@@ -16,14 +15,18 @@ export default function Navbar() {
   return (
     <nav>
       {/* Desktop Navigation */}
-      <NavigationMenu className="hidden md:flex  px-4 py-2 rounded-lg shadow-md ">
+      <NavigationMenu className="hidden md:flex px-4 py-2 rounded-lg shadow-md">
         <NavigationMenuList className="flex gap-2">
           {navItems.map((label) => (
             <NavigationMenuItem key={label}>
               <NavigationMenuLink asChild>
                 <Link
-                  to={`/${label.toLowerCase().replace(/\s+/g, "-")}`}
-                  className="px-4 py-2 rounded-radius bg-primary text-secondary hover: font-semibold transition-colors duration-200"
+                  to={
+                    label === "Home"
+                      ? "/"
+                      : `/${label.toLowerCase().replace(/\s+/g, "-")}`
+                  }
+                  className="px-4 py-2 rounded-radius bg-primary text-secondary font-semibold transition-colors duration-200"
                 >
                   {label}
                 </Link>
@@ -49,8 +52,12 @@ export default function Navbar() {
             {navItems.map((label) => (
               <Link
                 key={label}
-                to={`/${label.toLowerCase().replace(/\s+/g, "-")}`}
-                className="pl-10  hover:text-yellow-600"
+                to={
+                  label === "Home"
+                    ? "/"
+                    : `/${label.toLowerCase().replace(/\s+/g, "-")}`
+                }
+                className="pl-10 hover:text-yellow-600"
               >
                 {label}
               </Link>
