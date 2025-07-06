@@ -1,0 +1,292 @@
+
+
+[
+  {
+    "id": "Beverages-1",
+    "name": "Beer",
+    "category": "Beverages",
+    "price": 142,
+    "image": "/Food_Assets/menu/Beverages/beer.jfif",
+    "description": "Tasty beer from our Beverages menu."
+  },
+  {
+    "id": "Beverages-2",
+    "name": "BobaTea",
+    "category": "Beverages",
+    "price": 224,
+    "image": "/Food_Assets/menu/Beverages/BobaTea.jfif",
+    "description": "Tasty BobaTea from our Beverages menu."
+  },
+  {
+    "id": "Beverages-3",
+    "name": "Caramel Hazelnut ice coffee",
+    "category": "Beverages",
+    "price": 150,
+    "image": "/Food_Assets/menu/Beverages/Caramel-Hazelnut-ice-coffee.jfif",
+    "description": "Tasty Caramel Hazelnut ice coffee from our Beverages menu."
+  },
+  {
+    "id": "Beverages-4",
+    "name": "Ice tea",
+    "category": "Beverages",
+    "price": 246,
+    "image": "/Food_Assets/menu/Beverages/Ice-tea.jfif",
+    "description": "Tasty Ice tea from our Beverages menu."
+  },
+  {
+    "id": "Beverages-5",
+    "name": "Lemon mint mohito",
+    "category": "Beverages",
+    "price": 155,
+    "image": "/Food_Assets/menu/Beverages/Lemon-mint-mohito.jfif",
+    "description": "Tasty Lemon mint mohito from our Beverages menu."
+  },
+  {
+    "id": "Beverages-6",
+    "name": "Mint mohito",
+    "category": "Beverages",
+    "price": 209,
+    "image": "/Food_Assets/menu/Beverages/Mint-mohito.jfif",
+    "description": "Tasty Min mohito from our Beverages menu."
+  },
+  {
+    "id": "Beverages-7",
+    "name": "Mocha Frappe",
+    "category": "Beverages",
+    "price": 193,
+    "image": "/Food_Assets/menu/Beverages/Mocha-Frappe.jfif",
+    "description": "Tasty Mocha Frappe from our Beverages menu."
+  },
+  {
+    "id": "Beverages-8",
+    "name": "Orange juice",
+    "category": "Beverages",
+    "price": 238,
+    "image": "/Food_Assets/menu/Beverages/orange-juice.jfif",
+    "description": "Tasty orange juice from our Beverages menu."
+  },
+  {
+    "id": "Beverages-9",
+    "name": "Strawberry milkshake",
+    "category": "Beverages",
+    "price": 159,
+    "image": "/Food_Assets/menu/Beverages/Strawberry-milkshake.jfif",
+    "description": "Tasty Strawberry milkshake from our Beverages menu."
+  },
+  {
+    "id": "Beverages-10",
+    "name": "Strawberry mohito",
+    "category": "Beverages",
+    "price": 125,
+    "image": "/Food_Assets/menu/Beverages/Strawberry-mohito.jfif",
+    "description": "Tasty Strawberry mohito from our Beverages menu."
+  },
+  {
+    "id": "burger-1",
+    "name": "Big mac",
+    "category": "Burger",
+    "price": 173,
+    "image": "/Food_Assets/menu/burger/Big-mac.jfif",
+    "description": "Tasty Big mac from our Burger menu."
+  },
+  {
+    "id": "burger-2",
+    "name": "Cheesy mac",
+    "category": "Burger",
+    "price": 245,
+    "image": "/Food_Assets/menu/burger/Cheesy-mac.jfif",
+    "description": "Tasty Cheesy mac from our Burger menu."
+  },
+  {
+    "id": "burger-3",
+    "name": "Chessy mini mac",
+    "category": "Burger",
+    "price": 179,
+    "image": "/Food_Assets/menu/burger/chessy-mini-mac.jfif",
+    "description": "Tasty chessy mini mac from our Burger menu."
+  },
+  {
+    "id": "burger-4",
+    "name": "Mini burgers",
+    "category": "Burger",
+    "price": 233,
+    "image": "/Food_Assets/menu/burger/mini-burgers.jpg",
+    "description": "Tasty mini burgers from our Burger menu."
+  },
+  {
+    "id": "burger-5",
+    "name": "Nugget burger",
+    "category": "Burger",
+    "price": 205,
+    "image": "/Food_Assets/menu/burger/nugget-burger.jpg",
+    "description": "Tasty nugget burger from our Burger menu."
+  },
+  {
+    "id": "burger-6",
+    "name": "Triple deck burger",
+    "category": "Burger",
+    "price": 212,
+    "image": "/Food_Assets/menu/burger/triple-deck-burger.jfif",
+    "description": "Tasty triple deck burger from our Burger menu."
+  },
+  {
+    "id": "burger-7",
+    "name": "Vegan burger",
+    "category": "Burger",
+    "price": 141,
+    "image": "/Food_Assets/menu/burger/vegan-burger.jpg",
+    "description": "Tasty vegan burger from our Burger menu."
+  },
+  {
+    "id": "combo-1",
+    "name": "Burger fried chicken fries coke combo",
+    "category": "Combos",
+    "price": 117,
+    "image": "/Food_Assets/menu/combo/burger-fried-chicken-fries-coke-combo.jfif",
+    "description": "Tasty burger fried chicken fries coke combo from our Combos menu."
+  },
+  {
+    "id": "combo-2",
+    "name": "Family combo",
+    "category": "Combos",
+    "price": 224,
+    "image": "/Food_Assets/menu/combo/family-combo.jfif",
+    "description": "Tasty family combo from our Combos menu."
+  },
+  {
+    "id": "combo-3",
+    "name": "Smash burger fries",
+    "category": "Combos",
+    "price": 157,
+    "image": "/Food_Assets/menu/combo/Smash-burger-fries.jfif",
+    "description": "Tasty Smash burger fries from our Combos menu."
+  },
+  {
+    "id": "fries-1",
+    "name": "Cajun fries",
+    "category": "Fries",
+    "price": 103,
+    "image": "/Food_Assets/menu/fries/Cajun-fries.jfif",
+    "description": "Tasty Cajun fries from our Fries menu."
+  },
+  {
+    "id": "fries-2",
+    "name": "Cheessy fries (1)",
+    "category": "Fries",
+    "price": 198,
+    "image": "/Food_Assets/menu/fries/Cheessy-fries (1).jfif",
+    "description": "Tasty Cheessy fries (1) from our Fries menu."
+  },
+  {
+    "id": "fries-3",
+    "name": "Periperi fries",
+    "category": "Fries",
+    "price": 248,
+    "image": "/Food_Assets/menu/fries/periperi-fries.jpg",
+    "description": "Tasty periperi fries from our Fries menu."
+  },
+  {
+    "id": "fries-4",
+    "name": "Salted fries",
+    "category": "Fries",
+    "price": 183,
+    "image": "/Food_Assets/menu/fries/salted-fries.jpg",
+    "description": "Tasty salted fries from our Fries menu."
+  },
+  {
+    "id": "fries-5",
+    "name": "Savory fries",
+    "category": "Fries",
+    "price": 240,
+    "image": "/Food_Assets/menu/fries/savory-fries.jfif",
+    "description": "Tasty savory fries from our Fries menu."
+  },
+  {
+    "id": "specials&snacks-1",
+    "name": "Big mac tacos",
+    "category": "Specials & Snacks",
+    "price": 159,
+    "image": "/Food_Assets/menu/specials&snacks/big-mac-tacos.jfif",
+    "description": "Tasty big mac tacos from our Specials & Snacks menu."
+  },
+  {
+    "id": "specials&snacks-2",
+    "name": "Classic fish&chips",
+    "category": "Specials & Snacks",
+    "price": 209,
+    "image": "/Food_Assets/menu/specials&snacks/classic-fish&chips.jfif",
+    "description": "Tasty classic fish&chips from our Specials & Snacks menu."
+  },
+  {
+    "id": "specials&snacks-3",
+    "name": "Classic nugget",
+    "category": "Specials & Snacks",
+    "price": 133,
+    "image": "/Food_Assets/menu/specials&snacks/classic-nugget.jpg",
+    "description": "Tasty classic nugget from our Specials & Snacks menu."
+  },
+  {
+    "id": "specials&snacks-4",
+    "name": "Classic onion rings",
+    "category": "Specials & Snacks",
+    "price": 170,
+    "image": "/Food_Assets/menu/specials&snacks/classic-onion-rings.jpg",
+    "description": "Tasty classic onion rings from our Specials & Snacks menu."
+  },
+  {
+    "id": "specials&snacks-5",
+    "name": "Fish&chips burger",
+    "category": "Specials & Snacks",
+    "price": 212,
+    "image": "/Food_Assets/menu/specials&snacks/fish&chips-burger.jpg",
+    "description": "Tasty fish&chips burger from our Specials & Snacks menu."
+  },
+  {
+    "id": "specials&snacks-6",
+    "name": "Fish&chips",
+    "category": "Specials & Snacks",
+    "price": 138,
+    "image": "/Food_Assets/menu/specials&snacks/fish&chips.jpg",
+    "description": "Tasty fish&chips from our Specials & Snacks menu."
+  },
+  {
+    "id": "specials&snacks-7",
+    "name": "Fried chicken",
+    "category": "Specials & Snacks",
+    "price": 210,
+    "image": "/Food_Assets/menu/specials&snacks/fried-chicken.jpg",
+    "description": "Tasty fried chicken from our Specials & Snacks menu."
+  },
+  {
+    "id": "specials&snacks-8",
+    "name": "Mac&cheese",
+    "category": "Specials & Snacks",
+    "price": 236,
+    "image": "/Food_Assets/menu/specials&snacks/mac&cheese.jfif",
+    "description": "Tasty mac&cheese from our Specials & Snacks menu."
+  },
+  {
+    "id": "specials&snacks-9",
+    "name": "Sandwich",
+    "category": "Specials & Snacks",
+    "price": 114,
+    "image": "/Food_Assets/menu/specials&snacks/sandwich.jpg",
+    "description": "Tasty sandwich from our Specials & Snacks menu."
+  },
+  {
+    "id": "specials&snacks-10",
+    "name": "Spicy nugget",
+    "category": "Specials & Snacks",
+    "price": 231,
+    "image": "/Food_Assets/menu/specials&snacks/spicy-nugget.jfif",
+    "description": "Tasty spicy nugget from our Specials & Snacks menu."
+  },
+  {
+    "id": "specials&snacks-11",
+    "name": "Spicy onion rings",
+    "category": "Specials & Snacks",
+    "price": 133,
+    "image": "/Food_Assets/menu/specials&snacks/spicy-onion-rings.jfif",
+    "description": "Tasty spicy onion rings from our Specials & Snacks menu."
+  }
+]
