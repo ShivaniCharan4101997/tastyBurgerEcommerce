@@ -9,6 +9,8 @@ import BlogPost from "./pages/blogs/BlogPost";
 import Blog from "./pages/blogs/Blog";
 import Aboutus from "./pages/Aboutus";
 import Menu from "./pages/Menu";
+import Shop from "./pages/Shop";
+import CartPage from "./pages/Cart";
 
 function App() {
   return (
@@ -25,6 +27,8 @@ function App() {
           <Route path="/about" element={<Aboutus />} />
           <Route path="/menu" element={<Menu />} />
         </Route>
+        <Route path="/shop" element={<Shop />} />
+        <Route path="/cart" element={<CartPage />} />
       </Routes>
     </>
   );

@@ -47,10 +47,11 @@ const ContactUs: React.FC = () => {
       </div>
 
       {/* Right Form */}
-      <div className="md:w-1/2 p-10 flex items-center justify-center">
+      <div className="md:w-1/2 p-10 flex items-center justify-center ">
         <form
           onSubmit={handleSubmit}
-          className="bg-white shadow-lg rounded-lg p-8 w-full max-w-md"
+          className="bg-background shadow-lg
+          rounded-lg p-8 w-full max-w-md"
         >
           <h2 className="text-2xl font-bold text-yellow-700 mb-6 text-center">
             Contact Us
